@@ -1,4 +1,4 @@
-# Prueba Técnica Pokedex
+# Ejercicio Pokedex
 
 ## Instalación
 
